@@ -88,3 +88,13 @@ css选择器使得每一个HTML语句与css样式相对应。<br>
 属性选择器：用([])来标记，是一种特殊类型的选择器，他根据元素的属性和属性值来匹配元素
 
 * 文本样式都有哪些相关属性，对应哪些值？ <br>
+  * color  颜色
+  * font-family  字体
+  * font-style  是否是斜体
+  * font-weight  用来表现文字粗细
+  * font-size  文字大小
+  * text-align  对齐方式（左中右）
+  * text-decoration  添加上/下划线、删除线
+  * text-indent  段落首行缩进
+  * line-height  行高
+  * text-shadow  文本阴影（三个位置值一个颜色）
