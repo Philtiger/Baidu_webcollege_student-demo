@@ -101,6 +101,17 @@ css选择器使得每一个HTML语句与css样式相对应。<br>
 ***
 ### 第四堂课 2019/7/20
   （学习时长：2h）<br>
-  完善简历样式，理解更复杂的选择器
+完善简历样式，理解更复杂的选择器 <br>
   
+*今天了解比较透彻*
   
+* 背景，边框，列表，链接相关属性 <br>
+  背景（background，background-color，background-image，background-repeat，background-position）<br>
+  边框（border，border-color，border-style，border-width，border的上下左右）<br>
+  列表（list-style，list-style-type，list-style-image）<br>
+  链接（a:link，a:visited，a:hover，a:active）<br>
+  
+*需要后续继续深入阅读* 
+  
+* CSS 各种选择器的概念，使用方法及使用场景CSS / 选择器的优先级<br>
+[层叠和继承](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
