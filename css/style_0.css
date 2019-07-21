@@ -1,0 +1,12 @@
+nav {
+    font-size: 32px;  
+}
+nav div {
+    display: inline;
+}
+.title_total {
+    display: none;
+}
+main {
+    display: none;
+}

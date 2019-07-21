@@ -4,6 +4,7 @@
 也算是自欺欺人吧，完成这里的任务也能写到项目经验里，大学毕业之后好歹这一栏不空着会好看一点。XD
 ***
 简历codepen地址：[简历](https://codepen.io/philtiger/pen/eqYYZZ)
+三种简历样式作业演示：[三种简历]（）
 ***
 ### 第一堂课 2019/7/17
 今天是参与学习的第一天，是晚上开始的，从白天一直在刷Js的题，突发奇想抽点时间再把基础过一编，就发现了这个地方（宝藏）；<br>
@@ -115,3 +116,8 @@ css选择器使得每一个HTML语句与css样式相对应。<br>
   
 * CSS 各种选择器的概念，使用方法及使用场景CSS / 选择器的优先级<br>
 [层叠和继承](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
+***
+### 第五堂课 2019/7/21
+  （学习时长：6h）<br>
+三种简历（不同样式） <br>
+[]
