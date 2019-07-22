@@ -118,7 +118,7 @@ css选择器使得每一个HTML语句与css样式相对应。<br>
 [层叠和继承](https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
 ***
 ### 第五堂课 2019/7/21
-  （学习时长：6h）<br>
+  （第一天：学习时长：6h）<br>
 三种简历（不同样式） <br>
 完成结果：[三种简历](https://philtiger.github.io/Baidu_webcollege_student-demo/three_style/resume.html)
   
@@ -145,4 +145,7 @@ css选择器使得每一个HTML语句与css样式相对应。<br>
   float,通过父元素清除浮动，clear清除浮动，伪元素方法。
 * 如何使用浮动进行布局  
   实现左右分布布局……
-
+***
+### 第五堂课、第六堂课 2019/7/22
+  (学习时长：h) <br>
+感谢评论区建议，更改第三种样式的代码（加入边框）。

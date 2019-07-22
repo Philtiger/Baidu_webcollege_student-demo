@@ -31,14 +31,18 @@ h1 {
     padding: 10px;
 }
 .info {
+    border: 1px solid #DCDCDC;
     overflow: hidden;
 }
 .title {
     background-color: #D3D3D3;
     float: left;
     padding: 40px 20px;
-    margin-bottom: 5px;
+    margin-bottom: 1px;
     margin-right: 5px;
+}
+.content {
+    padding-top: 10px;
 }
 .content > div {   
     margin-bottom: 12px;
